@@ -1,3 +1,13 @@
+.. embryo-brand
+
+==================
+Embryo Broadcaster
+==================
+
+**Embryo Broadcaster** is Embryo-Zero's fork of `OBS Studio <https://github.com/obsproject/obs-studio>`_, made by Embryo Zero Backyard Data Center Corporation. Our changes are on the ``embryo`` branch; see EMBRYO.md, LEGAL.md and CHANGES-EMBRYO.md. The original project's README follows unchanged, with its authors' credits.
+
+----
+
 OBS Studio <https://obsproject.com>
 ===================================
 
